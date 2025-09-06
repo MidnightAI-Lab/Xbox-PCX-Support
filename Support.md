@@ -52,5 +52,5 @@ If issue persists, switch to cartridge mode.
 
 📞 Contact PCX Support
  Email: MidnightFacilities@gmail.com
- Website:
+ Website:https://github.com/MidnightAI-Lab/Xbox-PCX-Support
  Phone: 1-800-PCX-HELP
